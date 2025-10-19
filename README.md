@@ -45,8 +45,9 @@ go version
 1. Clone the repository and change into the project directory:
 
 ```bash
-git clone <repo-url>
-cd hng-go
+
+git clone <repo-url> go-server
+cd go-server 
 ```
 
 2. Build the binary (Linux example):
